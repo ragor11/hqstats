@@ -91,4 +91,4 @@ async def on_message(message):
 			#print("failure 69 lolel")
 
 # bot.run
-client.run("NTU0OTUwNjg5NzQzMTc1Njgx.D38QOA.rmonL1wNbt7oOldRCeM1U52-_uU")
+client.run("NjE5ODQ2NDYwNzU3NzcwMjQw.XXxMQQ.aQDAOYvx4WZNU0zhLgYsKdbw9j4")
